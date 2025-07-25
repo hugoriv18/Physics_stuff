@@ -4,7 +4,7 @@ This repository contains **basic programming examples** for use in general **phy
 
 ---
 
-## Topics Covered
+## Notebooks
 
 
 1. **Blackbody Radiation**  
