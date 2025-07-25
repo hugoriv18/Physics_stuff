@@ -1,2 +1,8 @@
-Basic programming examples for physics courses in general
+# Physics Programming Examples
+
+This repository contains **basic programming examples** for use in general **physics courses**.
+
+---
+
+## 📁 Repository Structure
 
